@@ -20,14 +20,15 @@ A simple React app that allows users to search for images using an external imag
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-   ````bash
+   ```bash
    git clone <repository-url>
    cd <repository-folder>
-   2.install dependencies:
-    ```bash
-    npm install
-   ````
-   3.Run the app:
-   ```bash
-   npm start
    ```
+2. Install dependencies:
+```bash
+npm i
+```
+3. Run the App:
+```bash
+npm run dev
+```
